@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "photo": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
+    "title": "HTML Basics: Learn the Fundamentals of Web Development",
+    "introduction": "In this course, you will learn the fundamentals of HTML, the building block of the web. You'll discover the essential concepts of HTML such as tags, attributes, and elements, and how they work together to create web pages. By the end of this course, you'll have a solid understanding of how to create basic web pages with HTML.",
+    "description": "This course focuses on HTML5, the latest version of HTML. You'll learn about the new features and improvements of HTML5, including semantic markup, multimedia integration, and canvas graphics. You'll also learn how to use the new form input types and how to write clean and efficient code. By the end of this course, you'll be able to create modern, dynamic web pages using HTML5. In this course, you'll dive deeper into HTML and learn more advanced techniques such as responsive design, accessibility, and SEO optimization. You'll also learn how to use popular HTML frameworks such as Bootstrap and Foundation to create beautiful, responsive web pages. By the end of this course, you'll have the skills to build complex web pages that are accessible and optimized for search engines.",
+    "price": "214",
+    "others": {
+      "rating": "4.2",
+      "people": "5300"
+    }
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "photo": "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg",
+    "title": "CSS Styling: Transform Your Web Pages with Beautiful Designs",
+    "introduction": "In this course, you will learn the fundamentals of CSS, the language used to style web pages. You'll discover how to use CSS to control the layout, typography, colors, and other visual aspects of a web page. You'll also learn how to use selectors and cascading to apply styles to specific elements. By the end of this course, you'll be able to create basic stylesheets and make your web pages look more professional.",
+    "description": "This course focuses on the layout aspects of CSS, including how to create responsive designs that adapt to different screen sizes and devices. You'll learn about different layout techniques such as floats, flexbox, and grid, and how to use them to create complex and dynamic web layouts. By the end of this course, you'll be able to create responsive web layouts that look great on any device. In this course, you'll learn more advanced CSS techniques such as animations, transformations, and transitions. You'll discover how to use CSS to create interactive and engaging web experiences, and how to optimize your code for performance. You'll also learn how to use CSS preprocessors such as Sass and Less to write cleaner and more maintainable code. By the end of this course, you'll have the skills to create sophisticated web designs that are both beautiful and functional.",
+    "price": "300",
+    "others": {
+      "rating": "4.8",
+      "people": "400"
+    }
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "photo": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
+    "title": "JavaScript Essentials: Build Interactive Web Applications",
+    "introduction": "In this course, you will learn the fundamentals of JavaScript, the language used to create dynamic and interactive web pages. You'll discover the essential concepts of JavaScript such as variables, data types, control structures, functions, and objects. By the end of this course, you'll be able to write basic JavaScript code to add interactivity to your web pages.",
+    "description": "This course focuses on the Document Object Model (DOM), which is the programming interface for HTML and XML documents. You'll learn how to use JavaScript to manipulate the DOM, such as creating, modifying, and deleting HTML elements. You'll also learn about events and event handlers, which allow you to respond to user actions and create interactive web pages. By the end of this course, you'll be able to use JavaScript to add dynamic and interactive features to your web pages. This course is all about using JavaScript frameworks such as React, Angular, and Vue to create modern and scalable web applications. You'll learn how to use these frameworks to build user interfaces, handle data, and create reusable components. You'll also learn about the basics of JavaScript tooling and workflow, including package management, bundling, and testing. By the end of this course, you'll be able to create sophisticated web applications using JavaScript frameworks.",
+    "price": "223",
+    "others": {
+      "rating": "4.3",
+      "people": "500"
+    }
+  },
+  {
+    "id": 4,
+    "name": "React",
+    "photo": "https://solguruz.com/wp-content/uploads/2022/09/ReactJS-Framework-Benefits.png",
+    "title": "React Framework: Master the Popular Front-End Library",
+    "introduction": "In this course, you will learn the fundamentals of React, a popular JavaScript library used for building user interfaces. You'll discover the basics of React, such as components, props, state, and events. You'll also learn how to use JSX, a syntax extension for JavaScript that allows you to write HTML-like code within your JavaScript files. By the end of this course, you'll be able to create basic React applications and understand how React works.",
+    "description": "This course focuses on creating React components, which are the building blocks of React applications. You'll learn how to create functional and class components, how to pass data between components using props, and how to manage component state. You'll also learn about lifecycle methods, which allow you to perform actions at specific points in a component's life. By the end of this course, you'll be able to create complex React applications using components.This course is all about using React Router, a popular library for handling routing in React applications. You'll learn how to create routes and links, how to use route parameters and query strings, and how to handle nested routes. You'll also learn how to use the history API and redirects to create a seamless user experience. By the end of this course, you'll be able to create React applications with multiple pages and dynamic routing.",
+    "price": "523",
+    "others": {
+      "rating": "3.4",
+      "people": "300"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Node",
+    "photo": "https://www.freecodecamp.org/news/content/images/2022/11/What-is.png",
+    "title": "Node.js is an open-source, cross-platform, back-end JavaScript",
+    "introduction": "In this course, you will learn the fundamentals of Node.js, a popular JavaScript runtime used for building server-side applications. You'll discover how to use Node.js to create web servers, handle requests and responses, and interact with databases. You'll also learn about the basics of asynchronous programming, which is essential for building scalable and high-performance applications. By the end of this course, you'll be able to create basic Node.js applications and understand how Node.js works.",
+    "description": "This course focuses on using modules in Node.js, which are self-contained units of code that can be reused across multiple applications. You'll learn how to create your own modules, how to use built-in modules, and how to use third-party modules from the Node Package Manager (npm). You'll also learn about the CommonJS module system and how to use it to organize and modularize your code. By the end of this course, you'll be able to create scalable and maintainable Node.js applications using modules.This course is all about using Express.js, a popular web framework for Node.js. You'll learn how to create routes, handle requests and responses, and use middleware to add functionality to your application. You'll also learn about templating engines, which allow you to dynamically generate HTML pages, and how to interact with databases using the Sequelize ORM. By the end of this course, you'll be able to create scalable and secure web applications using Express.js.",
+    "price": "123",
+    "others": {
+      "rating": "4.0",
+      "people": "4300"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Web SEO",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJzSP85UJFlm9WaDHrJ84m_eIQqpHNoQNDIQ&usqp=CAU",
+    "title": "SEO for Beginners: How to Optimize Your Website for Search Engines",
+    "introduction": "In this course, you will learn the basics of SEO, which is the practice of optimizing your website to improve its visibility and ranking in search engine results pages. You'll discover how search engines work, how they crawl and index websites, and how they determine rankings. You'll also learn about on-page optimization, such as keyword research, meta tags, and content optimization, and off-page optimization, such as link building and social media. By the end of this course, you'll have a solid understanding of SEO and how it can benefit your website.",
+    "description": "This course focuses on keyword research and analysis, which is essential for identifying the keywords and phrases that your target audience is searching for. You'll learn how to use keyword research tools to discover new keywords, how to analyze keyword difficulty and competition, and how to create a keyword strategy for your website. You'll also learn about long-tail keywords and how to use them to target specific niches. By the end of this course, you'll be able to conduct effective keyword research and create a targeted keyword strategy for your website.This course is all about on-page optimization, which involves optimizing the content and structure of your website to improve its visibility and ranking in search engine results pages. You'll learn about meta tags, such as the title tag and meta description, and how to use them to improve click-through rates. You'll also learn about content optimization, such as keyword density and content quality, and how to optimize images and videos for search engines. By the end of this course, you'll be able to optimize your website's content and structure for better search engine visibility.This course focuses on link building and off-page optimization, which involves building high-quality links from other websites to your website. You'll learn about the importance of backlinks for SEO, how to evaluate the quality of a backlink, and how to create a link-building strategy for your website. You'll also learn about social media optimization, such as how to create shareable content and engage with your audience on social media platforms. By the end of this course, you'll be able to build high-quality links and improve your website's visibility and ranking in search engine results pages.",
+    "price": "223",
+    "others": {
+      "rating": "4.3",
+      "people": "200"
+    }
+  }
+]
