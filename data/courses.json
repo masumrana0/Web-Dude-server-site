@@ -82,6 +82,7 @@
     "title": "Computer Science Fundamentals",
     "introduction": "I Welcome to Computer Science Fundamentals: Essential Concepts and Skills! In this course, you'll learn the fundamental concepts and skills needed to understand and solve problems in computer science. Whether you're a beginner or an experienced programmer, this course has everything you need to understand the basics of computer science and apply them to real-world problems.",
     "description": "This course covers all the essential aspects of computer science, including programming fundamentals, algorithms, data structures, and software development principles. You'll learn how to use programming languages like Python and Java to write programs that solve problems and manipulate data. We'll also cover the importance of data structures and algorithms and how to use them to optimize program efficiency. Additionally, we'll discuss software development principles, such as object-oriented programming, debugging techniques, and version control. By the end of the course, you'll have a solid understanding of the fundamental concepts and skills needed to succeed in computer science.Note that the specific topics covered in the course may vary depending on the specifics of your course, but this should give you an idea of how to structure a name, title, introduction, and description for a course on computer science fundamentals.",
+    "duration":"9 Month",
     "price": "223",
     "others": {
       "rating": "4.3",
@@ -96,6 +97,7 @@
     "title": "Database Management Fundamentals",
     "introduction": "Welcome to Database Management Fundamentals: SQL, Oracle, MySQL, and More! In this course, you'll learn the fundamental concepts and skills needed to manage databases using SQL, Oracle, MySQL, and other popular database management systems. Whether you're a beginner or an experienced database administrator, this course has everything you need to understand the basics of database management and apply them to real-world scenarios.",
     "description": "This course covers all the essential aspects of database management, including database design, data modeling, data normalization, and SQL programming. You'll learn how to create and manage databases using popular database management systems like Oracle and MySQL, as well as how to write SQL queries to retrieve, manipulate, and analyze data. We'll also cover advanced topics like database security, backup and recovery, and database performance tuning. By the end of the course, you'll have the skills and knowledge to manage databases effectively and efficiently using SQL, Oracle, MySQL, and other popular database management systems.Note that the specific topics covered in the course may vary depending on the specifics of your course, but this should give you an idea of how to structure a name, title, introduction, and description for a course on database management fundamentals.",
+    "duration":"7 Month",
     "price": "223",
     "others": {
       "rating": "4.3",
@@ -110,9 +112,10 @@
     "title": "Artificial Intelligence (AI) and Machine Learning (ML)",
     "introduction": " Welcome to Artificial Intelligence (AI) and Machine Learning (ML) Fundamentals: Concepts and Applications! In this course, you'll learn the basic concepts and skills needed to understand and apply AI and ML technologies. Whether you're a beginner or an experienced data scientist, this course has everything you need to understand the basics of AI and ML and apply them to real-world scenarios.",
     "description": "This course covers all the essential aspects of AI and ML, including data preprocessing, feature extraction, modeling, and evaluation. You'll learn how to use popular programming languages and frameworks like Python and TensorFlow to build AI and ML models for tasks like image recognition, natural language processing, and predictive analytics. We'll also cover advanced topics like deep learning, reinforcement learning, and neural networks. By the end of the course, you'll have the skills and knowledge to build and apply AI and ML models effectively and efficiently.Note that the specific topics covered in the course may vary depending on the specifics of your course, but this should give you an idea of how to structure a name, title, introduction, and description for a course on AI and ML fundamentals.",
-    "price": "200",
+    "duration":"9 Month",
+    "price": "192",
     "others": {
-      "rating": "4.5",
+      "rating": "4.2",
       "people": "800"
     }
   },
@@ -124,6 +127,7 @@
     "title": "Digital Marketing Fundamentals",
     "introduction": "Welcome to Digital Marketing Fundamentals: Strategies and Techniques for Success! In this course, you'll learn the essential strategies and techniques used in digital marketing to grow your business online. Whether you're a beginner or an experienced marketer, this course has everything you need to understand the basics of digital marketing and apply them to real-world scenarios.",
     "description": "This course covers all the essential aspects of digital marketing, including search engine optimization (SEO), pay-per-click (PPC) advertising, social media marketing, email marketing, and content marketing. You'll learn how to create effective marketing campaigns using popular tools like Google Ads, Facebook Ads, and Mailchimp. We'll also cover advanced topics like marketing analytics and conversion rate optimization. By the end of the course, you'll have the skills and knowledge to create and execute successful digital marketing campaigns that drive traffic, leads, and sales.Note that the specific topics covered in the course may vary depending on the specifics of your course, but this should give you an idea of how to structure a name, title, introduction, and description for a course on digital marketing fundamentals.",
+    "duration":"4 Month",
     "price": "150",
     "others": {
       "rating": "3.8",
@@ -138,6 +142,7 @@
     "title": "Operating Systems and System Administration",
     "introduction": "Welcome to Operating Systems and System Administration Fundamentals: Concepts and Best Practices! In this course, you'll learn the fundamental concepts and best practices needed to effectively manage and maintain computer systems running operating systems like Linux, Windows, and macOS. Whether you're a beginner or an experienced system administrator, this course has everything you need to understand the basics of operating systems and system administration and apply them to real-world scenarios.",
     "description": "This course covers all the essential aspects of operating systems and system administration, including installation and configuration, file systems, process management, system security, and networking. You'll learn how to manage and troubleshoot common system administration tasks using command-line tools and graphical user interfaces. We'll also cover advanced topics like virtualization, containerization, and cloud computing. By the end of the course, you'll have the skills and knowledge to effectively manage and maintain computer systems running operating systems like Linux, Windows, and macOS.Note that the specific topics covered in the course may vary depending on the specifics of your course, but this should give you an idea of how to structure a name, title, introduction, and description for a course on operating systems and system administration fundamentals.",
+    "duration":"7 Month",      
     "price": "300",
     "others": {
       "rating": "4.5",
